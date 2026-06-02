@@ -38,6 +38,9 @@ We do not want this to become a random bookmark collection. The goal is to build
 If you are learning Spanish, teaching Spanish, or have already passed through a certain stage, you are warmly invited to improve this project with us.
 
 ## 适合谁 / Who This Is For
+<img width="1536" height="1024" alt="SPANISH" src="https://github.com/user-attachments/assets/64bb5437-e0ce-4365-a07d-be0cb91468a9" />
+<img width="1536" height="1024" alt="ENGLISH" src="https://github.com/user-attachments/assets/603a9381-deda-401f-8008-67ff23b9917d" />
+
 
 - 零基础到 A2，希望建立稳定学习系统的人
 - 学过一点西语，但卡在动词变位和开口表达的人
@@ -77,7 +80,7 @@ If you are learning Spanish, teaching Spanish, or have already passed through a 
 - 推荐高质量教材、播客、视频、词典、语法网站和 AI 学习流程。
 - 分享自己的学习计划、复盘模板、错句本和真实学习案例。
 
-我们尤其欢迎面向中文学习者的解释：不是简单翻译语法术语，而是说清楚“为什么这里容易错”“应该怎么练”“这个表达在真实场景里怎么用”。
+我们尤其欢迎面向中文、英文学习者的解释：不是简单翻译语法术语，而是说清楚“为什么这里容易错”“应该怎么练”“这个表达在真实场景里怎么用”。
 
 We welcome careful, friendly, reusable contributions, including:
 
@@ -124,18 +127,6 @@ Join us and help make it better.
 - [发布与部署 / Publishing](docs/threads/project/deploy.md)
 - [内容质量检查清单 / Quality Checklist](docs/threads/project/quality-checklist.md)
 
-## 为什么西班牙语适合这个框架
-
-西班牙语非常适合做成这种文档型学习指南：它使用拉丁字母，拼读规则稳定，材料资源丰富，CEFR、DELE、SIELE 的能力等级也很成熟。中文学习者只要把「声音、变位、性数一致、真实输入」这四件事打通，进步会很明显。
-
-如果想用同一框架做其他语种，最推荐：
-
-- 法语：同属罗曼语，适合沿用听说读写和 CEFR 框架，但要加强发音、连读和阴阳性。
-- 意大利语：拼读友好，音乐、旅行、文化素材多，适合初学者做兴趣型项目。
-- 葡萄牙语：适合做巴西葡语方向，口语和音乐素材丰富，但发音体系要单独加强。
-- 德语：适合做严肃进阶项目，但需要增加格、词序、可分动词等独立章节。
-
-不太建议直接套用这个框架的语种：日语、韩语、阿拉伯语、俄语。它们需要单独处理文字系统、敬语/格/书写系统等问题，项目结构应重新设计。
 
 ## 版权说明
 
