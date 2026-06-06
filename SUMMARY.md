@@ -37,6 +37,7 @@
 
 * [发布与部署 / Publishing](docs/threads/project/deploy.md)
 * [内容质量检查清单 / Quality Checklist](docs/threads/project/quality-checklist.md)
+* [更新记录 / Changelog](CHANGELOG.md)
 
 ### Part II
 

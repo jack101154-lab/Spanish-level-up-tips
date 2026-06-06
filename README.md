@@ -127,7 +127,6 @@ Join us and help make it better.
 - [发布与部署 / Publishing](docs/threads/project/deploy.md)
 - [内容质量检查清单 / Quality Checklist](docs/threads/project/quality-checklist.md)
 
-
 ## 版权说明
 
 本项目内容为原创学习框架草案，可继续扩展为 GitBook、GitHub Pages 或知识库网站。若参考其他开源项目的结构，请保留对原项目和许可证的尊重。
@@ -136,4 +135,11 @@ Join us and help make it better.
 
 - [贡献指南](CONTRIBUTING.md)
 - [路线图](ROADMAP.md)
+- [更新记录](CHANGELOG.md)
 - [许可证](LICENSE.md)
+
+## 当前状态 / Current Status
+
+当前版本处于 **v0.2 内容维护阶段**：项目结构、核心章节、12 周路线、A1 练习册、资源索引和考试专题已经可读可用。后续重点是继续补充练习题、分级阅读材料、听力资源、标准答案和英文版章节内容。
+
+The project is currently in the **v0.2 content maintenance stage**. The structure, core chapters, 12-week roadmap, A1 workbook, resource index, and exam guide are usable. Next steps include more exercises, graded reading materials, listening resources, answer keys, and fuller English chapter versions.
